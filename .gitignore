@@ -24,8 +24,5 @@ hs_err_pid*
 #maven setting ignore
 **/target/
 
-#project local folder
-book/
-
 #maven wrapper jar exclusion
 **/.mvn/**/*.jar
